@@ -1,0 +1,13 @@
+{
+  "appId": "com.zero30.delivery",
+  "appName": "zero-30-demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

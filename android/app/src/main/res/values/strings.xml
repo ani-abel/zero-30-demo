@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">zero-30-demo</string>
+    <string name="title_activity_main">zero-30-demo</string>
+    <string name="package_name">com.zero30.delivery</string>
+    <string name="custom_url_scheme">com.zero30.delivery</string>
+</resources>
